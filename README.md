@@ -11,3 +11,4 @@ Small projects:
 8. Wine and customer classification - various clustering methods
 9. World bank aid projects - extracting relevant information from JSON documents
 10. Ultimate technologies data science challenge
+11. Relax data science challenge
