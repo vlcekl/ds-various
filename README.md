@@ -1,5 +1,5 @@
 # ds-various
-Small projects:
+Small data science projects:
 
 1. Human temperature - measures of normality, statistical significance analysis
 2. Racial discrimination - correlation and statistical significance analysis
